@@ -1,2 +1,26 @@
-# SENG265-Medical-Clinic-System-App
-Medical Clinic System App created for SENG265 at UVic
+# Medical Clinic System App
+## Created for SENG265: Software Development Methods
+## Univeristy of Victoria (UVic), Fall 2024
+
+## How to run:
+### Install Python 3.9.19
+```
+python3 --version
+```
+### Install PyQt6
+```
+pip install PyQt6
+```
+### Navigate to main directory
+```
+cd medical_clinic_system_app
+```
+### Run the GUI
+```
+python3 -m clinic gui
+```
+### Login to the Medical Clinic System
+```
+Username: user
+Password: 123456
+```
