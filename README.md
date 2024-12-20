@@ -13,7 +13,7 @@ pip install PyQt6
 ```
 ### Navigate to main directory
 ```
-cd medical_clinic_system_app
+cd medical_clinic_system
 ```
 ### Run the GUI
 ```
